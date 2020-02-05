@@ -22,7 +22,6 @@ describe ('Kargo cart automation test', function() {
         cy.get('[data-test=continue]').click();
 
        
+        })
 
-        
     })
-})
